@@ -1,0 +1,20 @@
+2024-05-31 13:55:14,483 :INFO : pytestdemo.test_logging : Information statment
+2024-05-31 13:55:14,483 :WARNING : pytestdemo.test_logging : something is in warning mode
+2024-05-31 13:55:14,483 :ERROR : pytestdemo.test_logging : A major error happened
+2024-05-31 13:55:14,483 :CRITICAL : pytestdemo.test_logging : critical issue
+2024-05-31 14:13:24,836 :INFO : pytestdemo.test_logging : Information statment
+2024-05-31 14:13:24,837 :WARNING : pytestdemo.test_logging : something is in warning mode
+2024-05-31 14:13:24,837 :ERROR : pytestdemo.test_logging : A major error happened
+2024-05-31 14:13:24,837 :CRITICAL : pytestdemo.test_logging : critical issue
+2024-05-31 19:45:27,343 :INFO : pytestdemo.test_logging : Information statment
+2024-05-31 19:45:27,344 :WARNING : pytestdemo.test_logging : something is in warning mode
+2024-05-31 19:45:27,344 :ERROR : pytestdemo.test_logging : A major error happened
+2024-05-31 19:45:27,344 :CRITICAL : pytestdemo.test_logging : critical issue
+2024-05-31 19:46:01,225 :INFO : pytestdemo.test_logging : Information statment
+2024-05-31 19:46:01,225 :WARNING : pytestdemo.test_logging : something is in warning mode
+2024-05-31 19:46:01,225 :ERROR : pytestdemo.test_logging : A major error happened
+2024-05-31 19:46:01,225 :CRITICAL : pytestdemo.test_logging : critical issue
+2024-05-31 21:36:55,725 :INFO : pytestdemo.BaseClass : rahul
+2024-05-31 21:43:34,460 :INFO : pytestdemo.BaseClass : rahul
+2024-05-31 21:45:35,589 :INFO : pytestdemo.BaseClass : rahul
+2024-05-31 21:45:35,589 :INFO : pytestdemo.BaseClass : rahulshettyacademy.com
